@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Mohali, Chandigarh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9798881851"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "amiteshwar551@gmail.com"
+  }
+]
